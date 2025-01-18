@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer utilities{
+.centered-item {
+    @apply position: absolute top: 50% left: 50%  transform: translate(-50%, -50%)
+}
+} */
